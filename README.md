@@ -18,7 +18,6 @@ You only need **Python 3** installed on your machine.
 
 4. Run the game using the Python interpreter
 
-(Note: Replace `your_filename.py` with the actual name of your Python file, e.g., `sps_game.py`).
 
 ### Gameplay
 
